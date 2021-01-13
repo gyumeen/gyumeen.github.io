@@ -1,6 +1,7 @@
 ---  
-title: "토비님의 조언"
-excerpt: "프로그래밍과 스프링에 대한 이일민님의 생각"
+title: "토비님의 프로그래밍 조언"
+excerpt: "프로그래밍과 스프링에 대한 이일민님의 생각
+categories: - Programming
 ---
 
 

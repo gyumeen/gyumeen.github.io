@@ -17,7 +17,6 @@ last_modified_at: 2021-01-14
 
 [<U>learngitbranching.js.org 사이트로 Git 브랜츠 실습 (클릭)</U>](https://learngitbranching.js.org/?locale=ko)
 
-### checkout
-이동
+### checkout(이동)
 
-
+### merge(합치기)

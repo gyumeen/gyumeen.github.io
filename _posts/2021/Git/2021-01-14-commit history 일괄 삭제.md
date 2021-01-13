@@ -1,5 +1,5 @@
 ---
-tittle: "[Gi commit history 일괄 삭제"
+tittle: "[Git commit history 일괄 삭제"
 excerpt: "안전한 전체 커밋 히스토리 삭제 방법"
 categories:
   - Git

@@ -1,12 +1,20 @@
 ---
 title: "토비님의 프로그래밍 조언
+
 excerpt: 토비의 스프링 저자 이일민님의 프로그래밍과 스프링에 대한 생각
+
 categories:
+
   - Programming
+  
 tags:
+
   - 프로그래밍
+  
   - 스프링
+  
 last_modified_at: 2020-01-14
+
 ---
   
 "스프링을 제대로 사용하는 건 생각보다 쉽지 않다.  

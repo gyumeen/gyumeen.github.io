@@ -1,6 +1,6 @@
 ---
 title: "토비님의 프로그래밍 조언
-excerpt: 토비의 스프링 저자 이일민님의 프로그래밍과 스프링에 대한 생각
+excerpt: "토비의 스프링 저자 이일민님의 프로그래밍과 스프링에 대한 생각"
 
 categories:
 - Programming

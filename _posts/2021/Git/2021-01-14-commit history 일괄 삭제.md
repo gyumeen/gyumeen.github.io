@@ -23,11 +23,17 @@ Check out to a temporary branch
 git checkout --orphan TEMP_BRANCH
 ```
 
+고이 브랜치로 이동
+
+<br/>
+
 Add all the files
 
 ```
 git add -A
 ```
+
+<br/>
 
 Commit the changes  
 
@@ -35,11 +41,19 @@ Commit the changes
 git commit -am "Initial commit"
 ```
 
+모든 커밋에 메시지를 부여
+
+<br/>
+
 Delete the old branch
 
 ```
 git branch -D master
 ```
+
+master 브랜치를 강제로 삭제(git branch -d가 삭제할 수 없는 브랜치를 지울 때 사용)
+
+<br/>
 
 Rename the temporary branch  
 

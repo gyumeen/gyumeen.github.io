@@ -3,7 +3,7 @@ title:  "토비님의 조언"
 excerpt: "프로그래밍과 스프링에 대한 토비의 스프링 저자 이일민님의 조언"
 
 categories:
-  - 
+  - Programming
 tags:
   - 프로그래밍
 last_modified_at: 2020-01-14

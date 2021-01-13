@@ -1,5 +1,5 @@
 ---
-title: "[Spring] 스프링 프레임워크란"
+title: "[Spring] 스프링 프레임워크"
 toc: true
 excerpt: "스프링 프레임워크에 대한 기본 개념"
 

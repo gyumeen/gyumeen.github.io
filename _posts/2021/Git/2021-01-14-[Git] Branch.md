@@ -20,4 +20,4 @@ last_modified_at: 2021-01-14
 
 ### checkout(이동)
 
-### merge(합치기)
+### merge(병합)

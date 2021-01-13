@@ -1,9 +1,9 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "토비님의 조언"
+excerpt: "프로그래밍과 스프링에 대한 토비의 스프링 저자 이일민님의 조언"
 
 categories:
-  - Blog
+  - 
 tags:
   - Blog
 last_modified_at: 2019-04-13T08:06:00-05:00

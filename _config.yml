@@ -102,11 +102,11 @@ author:
                      "/assets/images/profile.png"
   bio              : "Software developer"
   location         : "South Korea"
-  email            : 
+  email            : "gyumeen@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "gyumeen@gmail.com"
+      url: 
     
     - label: "Website"
       icon: "fas fa-fw fa-link"

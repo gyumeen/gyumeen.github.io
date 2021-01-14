@@ -70,6 +70,8 @@ Java SE(JDK)를 설치하면 자바 시스템을 제어하기 위한 API를 제�
 
 이러한 자바 API는 하나의 커다란 클래스 계층구조로 설계되어 있다.
 
+-----------------
+
 [<U>Collections framework</U>](https://docs.oracle.com/javase/7/docs/technotes/guides/collections/overview.html)
 
 (아래 글은 Java API 문서에 있는 컬렉션 프레임워크에 대한 개념을 번역한 글이다.)
@@ -99,4 +101,4 @@ Java 플랫폼에는 컬렉션 프레임 워크가 포함되어 있습니다 .
 
 - 컬렉션 및 알고리즘을 조작 할 수있는 표준 인터페이스를 제공하여 SW의 재사용을 촉진 합니다.
 
-
+---------------

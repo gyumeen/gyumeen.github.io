@@ -1,6 +1,7 @@
 ---
 title: "[IntelliJ IDEA] \"Gradle projects need to be imported\""
 toc: true
+toc_sticky: true
 excerpt: "Gradle의 설정 변경의 반영"
 categories:
   - IntelliJ IDEA

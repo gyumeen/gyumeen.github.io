@@ -5,6 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## gyumeen.github.io 블로그
+## gyumeen
 
 

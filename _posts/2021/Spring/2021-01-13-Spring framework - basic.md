@@ -1,6 +1,7 @@
 ---
 title: "[Spring] 스프링 프레임워크"
 toc: true
+toc_sticky: true
 excerpt: "스프링 프레임워크에 대한 기본 개념"
 
 categories: 

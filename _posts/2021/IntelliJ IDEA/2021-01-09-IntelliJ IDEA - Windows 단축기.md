@@ -1,6 +1,7 @@
 ---
 title: "[IntelliJ IDEA] Windows 단축기"
 toc: true
+toc_sticky: true
 excerpt: "실행: Ctrl + Shift + F10 (Mac : Ctrl + Alt + r)"
 
 categories: 

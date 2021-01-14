@@ -1,7 +1,8 @@
 ---
 title:  "[Java] 컬렉션 프레임워크"
 excerpt: "자바의 Collection framework의 개념과 하위요소"
-
+toc: true
+toc_sticky: true
 categories:
   - Java
 tags:

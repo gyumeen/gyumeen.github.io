@@ -35,7 +35,7 @@ Collection 인터페이스와 Map 인터페이스 로 구성된다
 하위에 List 인터페이스와 Set 인터페이스로 구성
 
 ![](https://github.com/gyumeen/blog-images/blob/main/2021/01/Collection%20framework/1.png?raw=true)  
-[<U>사진 출처</U>](출처 : https://www.benchresources.net/collection-interface-in-java/)
+[<U>사진 출처</U>](https://www.benchresources.net/collection-interface-in-java/)
 
 <br/>
 

@@ -1,12 +1,13 @@
 ---
-tittle: "[Git] commit history 일괄 삭제"
-excerpt: "안전한 전체 커밋 히스토리 삭제 방법"
+title:  "[Git] commit history 일괄 삭제"
+excerpt: "git으로 전체 커밋 히스토리를 안전하게 삭제하는 방법"
+
 categories:
   - Git
 tags:
   - 깃
   - 깃허브
-last_modified_at: 2020-01-14
+last_modified_at: 2021-01-14
 ---
 
 ![](https://github.com/gyumeen/blog-images/blob/main/2021/01/Delete%20commits%20history/1.jpg?raw=true)

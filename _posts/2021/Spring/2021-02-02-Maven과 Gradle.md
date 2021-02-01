@@ -2,7 +2,7 @@
 title: "[Spring] Maven과 Gradle"
 toc: true
 toc_sticky: true
-excerpt: "프로젝트에 대한 자동 빌드도구 Maven과 Gradle"
+excerpt: "프로젝트에 대한 자동 빌드 도구 Maven과 Gradle"
 
 categories: 
   - Spring

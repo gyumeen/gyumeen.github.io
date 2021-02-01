@@ -110,7 +110,7 @@ Spring은 객체지향 언어가 가진
 - <U>IoC</U>(Inversion of Control : 제어의 역전) 지원  
 - <U>DI</U>(Dependency Injection) 지원  
 - <U>AOP</U>(Aspect-Oriented Programming) 지원
-- <U>iBATIS, myBATIS, Hibernate</U> 지원
+- <U>iBATIS, myBATIS, Hibernate</U> 등의 데이터베이스 라이브러리 지원
 
 
 ## IoC (제어의 역전)

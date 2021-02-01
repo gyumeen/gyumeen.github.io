@@ -108,7 +108,9 @@ Spring은 객체지향 언어가 가진
 - <U>경량의 컨테이너</U>로써 자바 객체를 직접 관리  
 - <U>POJO</U>(Plain Old Java Object) 방식의 프레임워크  
 - <U>IoC</U>(Inversion of Control : 제어의 역전) 지원  
-- 
+- <U>DI</U>(Dependency Injection) 지원  
+- <U>AOP</U>(Aspect-Oriented Programming) 지원
+- <U>iBATIS, myBATIS, Hibernate</U> 지원
 
 
 ## IoC (제어의 역전)

@@ -103,6 +103,13 @@ Spring은 객체지향 언어가 가진
 좋은 객체지향 애플리케이션을 개발할 수 있도록  
 지원하는 프레임워크다.
 
+## Spring 프레임워크의 특징
+
+- <U>경량의 컨테이너</U>로써 자바 객체를 직접 관리  
+- <U>POJO</U>(Plain Old Java Object) 방식의 프레임워크  
+- <U>IoC</U>(Inversion of Control : 제어의 역전) 지원  
+- 
+
 
 ## IoC (제어의 역전)
 

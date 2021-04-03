@@ -30,7 +30,7 @@
       <p class="page__meta"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%B %d %Y" }}</p>
     {% endif %}
     
-    <!-- 일단 제외
+    <!-- 메인 페이지의 리드 타임 표시 제거
     {% include page__meta.html type=include.type %}
 -->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}

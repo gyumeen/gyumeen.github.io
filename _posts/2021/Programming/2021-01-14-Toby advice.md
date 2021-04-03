@@ -1,6 +1,6 @@
 ---
 title:  "토비님의 조언"
-excerpt: "프로그래밍과 스프링에 대한 토비의 스프링 저자 이일민님의 조언"
+excerpt: "토비의 스프링 저자 이일민 님의 프로그래밍과 스프링 프레임워크 학습 조언"
 
 categories:
   - Programming
